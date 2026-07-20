@@ -22,4 +22,4 @@ public class LeftRotateByOne {
 
 /*
  * Time = O(n)
- * Space = O(1)*/=
+ * Space = O(1)*/
